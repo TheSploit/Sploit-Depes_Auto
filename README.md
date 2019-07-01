@@ -18,3 +18,6 @@ vuln webdav
 
 # Website
 https://myamazingapk.blogspot.com/2019/07/auto-deface-by-webdav.html
+
+<script src="https://liberapay.com/TheSploit/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/TheSploit/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
